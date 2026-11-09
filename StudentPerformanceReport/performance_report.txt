@@ -1,0 +1,13 @@
+STUDENT PERFORMANCE REPORT
+==========================
+Name: Maria
+Scores: 94.00 55.00 57.00 
+Average: 68.67
+Grade: D
+--------------------------
+
+CLASS SUMMARY
+==========================
+Class Average: 68.67
+Highest Average: Maria - 68.67
+Lowest Average: Maria - 68.67

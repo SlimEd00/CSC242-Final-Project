@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "StudentP.f94321d7\\x64\\Debug\\StudentPerformanceReport.obj",
+            "outputs": [
+                "StudentP.f94321d7\\x64\\Debug\\StudentPerformanceReport.cpp.obj.dt.module.json",
+                "StudentP.f94321d7\\x64\\Debug\\StudentPerformanceReport.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
